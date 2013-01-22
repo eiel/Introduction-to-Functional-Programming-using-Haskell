@@ -170,3 +170,5 @@
   - 結果 a -> c の関数ができる
 ** 練習問題
 [[file:1.4.md]]
+** 個人的まとめ
+[[http://blog.eiel.info/blog/2013/01/22/intro-functional-1-dot-4/][blog記事]]
